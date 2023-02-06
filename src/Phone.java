@@ -5,6 +5,7 @@ public class Phone {
     if (phone.length() <= 3) {
       return "-------------";
     }
+    System.out.println();
     return phone;
   }
 }
