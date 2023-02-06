@@ -4,6 +4,7 @@ public enum Position {
   int value;
 
   Position(int value) {
+    System.out.println();
     this.value = value;
   }
 }
